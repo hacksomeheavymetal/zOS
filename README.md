@@ -39,3 +39,6 @@ exactly the same way OWASP became such place for web apps. Or not.
 - [pentesting.md - crash course to z/OS pentesting](../master/pentesting.md)
 - [vocabulary.md - language used in the mainframe world](../master/vocabulary.md)
 - [hyperlinks.md - external resources](../master/hyperlinks.md)
+
+## Contact
+hacksomeheavymetal@protonmail.com
