@@ -30,9 +30,10 @@ sharing their knowledge in the field and contributing to the infosec and
 mainframe communities. This however was still not enough to close the gap
 between mainframes and the rest of the world.
 
-There's a possibility that at some point it will become a go to place for
-everyone who would like to have fun and learn about mainframe security,
-exactly the same way OWASP became such place for web apps. Or not.
+I'm kicking-off a libre project by sharing the bits and pieces gathered
+over the years on the subject.  I want to encourage you to contribute so
+we can build together a go to place for everyone who would like to have
+fun and learn about mainframe security.
 ```
 
 ## Resources
