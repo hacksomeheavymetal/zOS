@@ -1,0 +1,45 @@
+- http://en.wikipedia.org/wiki/Z/OS - intro
+- http://www-01.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zos.zbasics/homepage.html?cp=zosbasics%2F0&lang=en - intro
+- http://hwcdn.libsyn.com/p/e/4/4/e44519122baad182/frey-jensen-final.mp3?c_id=4363385&expiration=1428194469&hwt=f94d5dd2621512c7697b5aa143e7f862 - CTO of IBM talks about mainframes and z/os
+- https://share.confex.com/share/118/webprogram/Handout/Session10983/zOS_UNIX_for_all_2012_Atlanta.pdf
+- https://share.confex.com/share/118/webprogram/Handout/Session10980/KZBPAOUS%20%28Clean%29.pdf
+- https://share.confex.com/share/118/webprogram/Handout/Session10979/UnixSystemsServicesInTodaysMainframeSoftware.pdf
+- http://proceedings.share.org/client_files/SHARE_in__Seattle/S2285AR180529.pdf
+- http://proceedings.share.org/client_files/Share_in_Orlando_2/Session_10065_handout_1904_0.pdf
+- http://proceedings.share.org/client_files/SHARE_in_Anaheim_2/Session_9040_handout_949_0.pdf
+- http://proceedings.share.org/client_files/Share_in_Orlando_2/Session_9875_handout_1455_0.pdf
+- http://proceedings.share.org/client_files/SHARE_in_Anaheim_2/Session_9021_handout_950_0.pdf - information about compiling and linking
+- http://www.mainframes.com/Tips.html
+- http://www.mainframes.com/Manuals.htmla
+- http://www.redbooks.ibm.com/abstracts/sg246986.html - z/OS security (RACF, PKI, kerberos, ldap, crypto EIM)
+- http://www.redbooks.ibm.com/abstracts/sg246988.html - debugging, tracing etc.
+- http://www.redbooks.ibm.com/abstracts/sg246984.html - networking and security
+- https://www.redbooks.ibm.com/redbooks.nsf/pages/IBMIEAV22security?Open - IBM Education Assistance (security)
+- http://docweb.cns.ufl.edu/docs/d0089/d0089.html - ispf editor howto
+- http://csis.pace.edu/lixin/mainframe/c1042_c1042_intro_labs.pdf - z/os excercises
+- http://www-03.ibm.com/systems/resources/systems_z_advantages_charter_security_zSecurity_L4_Security_Elements_of_zOS.ppt - intro to z/os security
+- http://patata.homeip.net/blog/add-users-to-mvs - adding users in z/os
+- https://github.com/mainframed/NC110-OMVS - netcat for z/os
+- http://web.nvd.nist.gov/view/ncp/repository/checklistDetail?id=55 - checklist Details for zOS RACF STIG
+- http://examples.oreilly.com/cics/CDROM/pdfs/cicsts/dfht500.pdf - CICS security
+- https://publib.boulder.ibm.com/infocenter/cicsts/v2r3/index.jsp?topic=/com.ibm.cics.ts23.doc/dfht5/dfht5ge.htm - General resource security checking by CICS and RACF
+- https://publib.boulder.ibm.com/infocenter/cicsts/v2r3/topic/com.ibm.cics.ts23.doc/dfht5/dfht5ge.htm - resource security checking with CICS and RACF
+- ftp://public.dhe.ibm.com/eserver/zseries/ - lot of tools and materials
+- http://www.stuhenderson.com/XARTSTXT.HTM - z/os security whitepapers by Henderson Group
+- http://www.stuhenderson.com/MVSAUDL.pdf - Effective z/OS Security Auditing
+- http://www.rshconsulting.com/racfres.htm - lot of white papers/tips/presentations etc.
+- https://share.confex.com/share/125/webprogram/ataglance.html - lot of presentations
+- http://www.newera-info.com/MF-SEC.html - rsmpartners slide about mainframe testing
+- http://www.bigendiansmalls.com/ - awesome blog about mainframe hacking
+- http://mainframed767.tumblr.com/ - ^^^
+- http://ytxmrc3pcbv5464e.onion.link/files/Misc/How_to_hack_like_a_pornstar.pdf - good description of a mf hack
+- http://www.haibane.org/node/23 - list of usefull commands
+- https://www.go2vanguard.com/training/ - loads of courses regarding z/os and racf security; mainframe testing
+- http://www.rsmpartners.com/ - mainframe testing
+- http://www.infosecinc.com/ - mainframe testing
+- https://www.krisecurity.com/ - mainframe testing
+- https://evilmainframe.com/ - mainframe courses
+- http://fedtke.com/engl/zseindex.htm - mainframe testing
+- https://www.detack.de/en/services#specific-areas-of-expertise - mainframe testing
+- http://www.efglobe.com/cgi-bin/mainframe/mainuser - free mainframe account on z/os 1.06
+- http://enterprisesystemsmedia.com/article/warning-mainframe-data-leakage-poses-significant-risk#sr=g&m=o&cp=or&ct=-tmc&st=(opu%20qspwjefe)&ts=1471227408
