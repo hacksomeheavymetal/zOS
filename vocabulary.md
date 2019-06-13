@@ -3,6 +3,7 @@
 - https://walton.uark.edu/enterprise/IBM/systemZ/downloads/module0/zglossary.pdf (the original [source #1](https://www.ibm.com/support/knowledgecenter/en/zosbasics/com.ibm.zglossary.doc/zglossary.html) and [source #2](https://www.ibm.com/software/globalization/) were removed)
 
 ## Basic acronyms and terms
+- ACF2 (Access Control Facitlity) - alternative facility for authentication, RBAC, ACLs, auditing etc.
 - ACP (Access Control Product) - products such as RACF, ACF2 and TSS.
 - APF (Authorized Program Facility) - checks if a given program is authorised to access system sensitive functions, e.g. SVCs or SVC paths.
 - BCP (Base Control Program) - z/OS kernel is part of it.
@@ -29,7 +30,6 @@
 - OCSF (Open Cryptographic Service Facility) - `TODO`.
 - OMVS - stands for z/OS UNIX System Services, basically a POSIX unix environment on the mainframe that coexists with z/os.
 - RACF (Resource Access Control Facility) - default z/OS facility for authentication, RBAC, ACLs, auditing etc.
-- ACF2 (Access Control Facitlity) - alternative facility for authentication, RBAC, ACLs, auditing etc.
 - RJE (Remote Job Entry) - allows RJE workstations to use JES for job execution.
 - SAF (System Access Facility) - similar to PAM (Pluggable Authentication Modules) framework. Delegates requests to the RACF db and/or other ESMs.
 - SDSF (System Display and Search Facility) - allows users and administrators to view and control various aspects of the mainframe's operation and system resources. Think ps, kill jobs, syslog etc.
