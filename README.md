@@ -23,12 +23,12 @@
 
 ## Motivation
 ```
-Despite of anakata's motives one thing is certain, thanks to him some
-people got hooked and started to talk about the security of mainframes.
-Since then, few individuals, and before that even fewer, did their best
-sharing their knowledge in the field and contributing to the infosec and
-mainframe communities. This however was still not enough to close the gap
-between mainframes and the rest of the world.
+Regardless of anakata's intentions one thing is certain, thanks to him
+some people got hooked and started to talk about the security of
+mainframes.  Since then, few individuals, and before that even fewer,
+did their best sharing their knowledge in the field and contributing to
+the infosec and mainframe communities. This however was still not enough
+to close the gap between mainframes and the rest of the world.
 
 I'm kicking-off a libre project by sharing the bits and pieces gathered
 over the years on the subject.  I want to encourage you to contribute so
