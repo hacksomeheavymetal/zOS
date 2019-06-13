@@ -1,7 +1,6 @@
 ## The complete list of z/OS acronyms
-- http://www-01.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zglossary.doc/zglossary.html?cp=zosbasics%2F14&lang=en
-- http://www.ibm.com/software/globalization/terminology
 - http://www.ibm.com/systems/z/os/zos/bkserv/lookat/
+- https://walton.uark.edu/enterprise/IBM/systemZ/downloads/module0/zglossary.pdf (the original [source #1](https://www.ibm.com/support/knowledgecenter/en/zosbasics/com.ibm.zglossary.doc/zglossary.html) and [source #2](https://www.ibm.com/software/globalization/) were removed)
 
 ## Basic acronyms and terms
 - ACP - Access Control Product like RACF/ACF2/TSS.
