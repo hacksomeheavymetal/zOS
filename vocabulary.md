@@ -15,7 +15,7 @@
 - DSMON (Data Security Monitor) - produces a set of reports that provide information about the current status of the data security environment.
 - Dataset - "file" on a mainframe; logical records (length) instead of bytes, no newlines (there are partitioned, sequential and VSAM datasets).
 - EBCDIC (Extended Binary Coded Decimal Interchange Code) - alternative character set to ASCII (https://en.wikipedia.org/wiki/IBM_3270#3270_character_set).
-- ESM (External Security Manager) - one of RACF, ACF2 or TSS (see SAF below)(?).
+- ESM (External Security Manager) - one of RACF, ACF2 or TSS (see SAF and ACP).
 - HFS (Hierarchical File System) - z/OS file system.
 - HLQ (High Level Qualifier) - allows to associate an app's configuration dataset with a job name or TSO's userid, or permits to use the default configuration dataset for the app.
 - ICSF (Integrated Cryptographic Service Facility) - hardware crypto acceleration, provides the APIs by which applications request the cryptographic services.
