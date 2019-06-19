@@ -37,9 +37,12 @@ fun and learn about mainframe security.
 ```
 
 ## Resources
-- [pentesting.md - crash course to z/OS pentesting](../master/pentesting.md)
-- [vocabulary.md - language used in the mainframe world](../master/vocabulary.md)
+- [default_accounts.txt - the list of default accounts](../master/default_accounts.txt)
+- [firststeps.md - first steps](../master/firststeps.md)
 - [hyperlinks.md - external resources](../master/hyperlinks.md)
+- [pentesting.md - the crash course to z/OS pentesting](../master/pentesting.md)
+- [vocabulary.md - the language used in the mainframe world](../master/vocabulary.md)
+
 
 ## Contact
 hacksomeheavymetal@protonmail.com
