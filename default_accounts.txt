@@ -1,4 +1,4 @@
-name             Password
+Username         Password
 --------         --------
 $ALOC$
 ADCD[A-Z]        TEST
