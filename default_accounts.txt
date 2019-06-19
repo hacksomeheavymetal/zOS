@@ -1,0 +1,136 @@
+Username         Password
+--------         --------
+$aloc$
+admin            operator, manager, adm, sysadmin, sysadm
+alertvm          alert
+ap2svp
+apl2pp
+autolog1         autolog
+autolog2         autolog
+batch
+batch1           batch
+batch2           batch
+botinstl
+ccc
+cms
+cmsbatch         cms, batch, batch1
+cmsuser          cms, user
+cpms
+cpnuc
+cprm
+cspuser          user, csp
+cview
+datamove
+demo1            demo
+demo2            demo
+direct
+dirmaint         dirmaint1
+diskcnt
+entty
+erep
+formplus
+fsfadmin         fsf, adm, sysadmin, sysadm, admin, fsfadm
+fsftask1
+fsftask2
+gcs
+gcsrecon
+idms
+idmsse
+iips
+infm-mgr         infm, man, manager, mgr
+inoutmgr         mgr, manager
+ipfappl
+ipfserv
+ispvm
+ivpm1
+ivpm2
+maildel
+mailman
+maint            service
+moeserv
+netview          network, view, net, monitor
+oltsep
+op1
+opbackup         backup
+operatns         op, operator, manager, admin
+operator         op, operatns, manager, admin
+opserver
+pdm470
+pdmremi
+peng
+presdbm          dbm
+procal
+prodbm           prod
+promail
+psfmaint         maint
+pssnews          news
+pvm
+router
+rscs
+rscsv2
+savsys
+sfcm1            sfcm
+sfcntrl
+sim3278
+smart
+sna
+sqldba           database
+sqluser          user, sql
+syncrony
+sysadmin         admin, adm, sysadm, manager, operator
+sysckp
+sysdump1         sysdump
+syserr
+syswrm
+tdisk            disk, temp
+temp
+tsafvm
+vastest          test
+vm3812
+vmarch
+vmasmon
+vmassys
+vmbackup         backup
+vmbsysad
+vmmap            map
+vmtape           tape
+vmtest           test, testuser
+vmtlibr
+vmutil           util, utils
+vseipo
+vsemaint         maint
+vseman
+vsm
+vtam
+vtamuser         user, vtam
+x400x25
+ADCDMST          ADCDMST/SYS1
+ADCD[A-Z]        TEST
+P390             P390
+P390[A-Z]        TEST
+TESTER           TEST
+OPEN[1-3]        SYS1
+IBMUSER          SYS1/IBMUSER
+cat              moew
+protect          nopassword
+webadm           pass/pass1/password/sys1
+BPXOINIT
+DB8GRFSH
+DB9GENV5
+DB9GRFSH
+DSN1WLM1
+FTPD
+INETD
+INTERNAL
+OMVSKERN
+PRIVATE
+PUBLIC
+SSHD
+START1
+START2
+SYSADM		      SYS1/SYSADM
+SYSOPR		      SYS1/SYSOPR
+TCPIP
+UUCP
+WEBSRV
+WEBADM          WEBADM
