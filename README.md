@@ -43,6 +43,11 @@ fun and learn about mainframe security.
 - [pentesting.md - the crash course to z/OS pentesting](../master/pentesting.md)
 - [vocabulary.md - the language used in the mainframe world](../master/vocabulary.md)
 
+## TODO
+All hands on the keyboard! We need these urgently (the more the better):
+
+- The username/password combos from those cracked RACF dbs.
+- Adding a high quality content to the pentesting methodology with focus on the verified command samples.
 
 ## Contact
 hacksomeheavymetal@protonmail.com
