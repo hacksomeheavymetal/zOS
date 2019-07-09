@@ -36,18 +36,23 @@ we can build together a go to place for everyone who would like to have
 fun and learn about mainframe security.
 ```
 
+## TODO
+Not a single pull request since the kick-off?! Surely we can do better than that!
+
+No ideas what to contribute? We need these (in no particular order), e.g.:
+
+- More username/password combos from those cracked RACF DBs.
+- Add a high quality content in pentesting methodology with focus on the verified command samples.
+- Samples of a vulnerable code and the list of programming mistakes with focus on REX, COBOL, ASM etc.
+- Add information about tools and techniques on z/OS for compilation, debugging code/apps, SAST/DAST, reversing etc.
+- Create a VM image (e.g. vagrant) with everything that's required to run a local z/OS instance.
+
 ## Resources
 - [default_accounts.txt - the list of default accounts found on mainframes](../master/default_accounts.txt)
 - [firststeps.md - literally the first steps in z/OS](../master/firststeps.md)
 - [hyperlinks.md - external resources](../master/hyperlinks.md)
 - [pentesting.md - the crash course to z/OS pentesting](../master/pentesting.md)
 - [vocabulary.md - the language used in the mainframe world](../master/vocabulary.md)
-
-## TODO
-All hands on the keyboard! We need these urgently (the more the better):
-
-- The username/password combos from those cracked RACF dbs.
-- Adding a high quality content to the pentesting methodology with focus on the verified command samples.
 
 ## Contact
 hacksomeheavymetal@protonmail.com
