@@ -37,8 +37,6 @@ fun and learn about mainframe security.
 ```
 
 ## TODO
-Not a single pull request since the kick-off?! Surely we can do better than that!
-
 No ideas what to contribute? We need these (in no particular order), e.g.:
 
 - More username/password combos from those cracked RACF DBs.
