@@ -40,9 +40,10 @@ fun and learn about mainframe security.
 No ideas what to contribute? We need these (in no particular order), e.g.:
 
 - More username/password combos from those cracked RACF DBs.
-- Add a high quality content in pentesting methodology with focus on the verified command samples.
+- Add a high quality content in pentesting methodology with focus on the verified command samples & tools.
 - Samples of a vulnerable code and the list of programming mistakes with focus on REX, COBOL, ASM etc.
 - Add information about tools and techniques on z/OS for compilation, debugging code/apps, SAST/DAST, reversing etc.
+- If not available, create FLOSS tool(s) for exploiting/testing/verifying vulnerabilities/misconfigurations/techniques.
 - Create a VM image (e.g. vagrant) with everything that's required to run a local z/OS instance.
 
 ## Resources
