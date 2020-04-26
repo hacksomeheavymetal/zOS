@@ -5,7 +5,10 @@
 ## Basic acronyms and terms
 - ACF2 (Access Control Facitlity) - alternative facility for authentication, RBAC, ACLs, auditing etc.
 - ACP (Access Control Product) - products such as RACF, ACF2 and TSS.
+- APAR (Authorized Program Analysis Report) - is an IBM designation of a document intended to identify situations that could result in potential problems.
 - APF (Authorized Program Facility) - checks if a given program is authorised to access system sensitive functions, e.g. SVCs or SVC paths.
+- BCP (Base Control Program) - z/OS kernel is part of it.
+- CBPIO (Custom Built Installation Process Offering) - installation of a base system including PTFs, APARs, SMP/E etc.
 - BCP (Base Control Program) - z/OS kernel is part of it.
 - CICS (Customer Information Control System) - a transaction server (think rollbacks). Used to be able to do internal CICS security, now uses ESM RACF, ACF2 or TSS.
 - DASD (Direct Access Storage Device) - device in which the access time is effectively independent of the location of the data.
@@ -29,10 +32,12 @@
 - NJE (Network Job Entry) - is a protocol to send jobs to other nodes.
 - OCSF (Open Cryptographic Service Facility) - `TODO`.
 - OMVS - stands for z/OS UNIX System Services, basically a POSIX unix environment on the mainframe that coexists with z/os.
+- PTF (Program temporary fix or Product temporary fix) - a single bug fix or group of fixes, distributed in a form ready to install for customers.
 - RACF (Resource Access Control Facility) - default z/OS facility for authentication, RBAC, ACLs, auditing etc.
 - RJE (Remote Job Entry) - allows RJE workstations to use JES for job execution.
 - SAF (System Access Facility) - similar to PAM (Pluggable Authentication Modules) framework. Delegates requests to the RACF db and/or other ESMs.
 - SDSF (System Display and Search Facility) - allows users and administrators to view and control various aspects of the mainframe's operation and system resources. Think ps, kill jobs, syslog etc.
+- SMP/E (System Modification Program/Extended) - tool designed to manage the installation of software products on z/OS.
 - SVC (Supervisor Call) - is a hardware instruction used to cause an interrupt to request a service from the operating system. SVC is a specific implementation of a system call.
 - TSO (Time Sharing Option) is like login sessions on linux.
 - TSS (Top Secret System) - alternative facility for authentication, RBAC, ACLs, auditing etc.
