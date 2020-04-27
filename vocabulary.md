@@ -6,7 +6,7 @@
 - ACF2 (Access Control Facitlity) - alternative facility for authentication, RBAC, ACLs, auditing etc.
 - ACP (Access Control Product) - products such as RACF, ACF2 and TSS.
 - APAR (Authorized Program Analysis Report) - is an IBM designation of a document intended to identify situations that could result in potential problems.
-- APF (Authorized Program Facility) - checks if a given program is authorised to access system sensitive functions, e.g. SVCs or SVC paths.
+- APF (Authorized Program Facility) - checks if a given program is authorised to access system sensitive functions. The APF authorisation allows to call any system service, to use restricted SVCs and SVC paths, to run in supervisor state, to change any memory block (including security control ones) and/or to use memory keys 0 and 1.
 - BCP (Base Control Program) - z/OS kernel is part of it.
 - CBPIO (Custom Built Installation Process Offering) - installation of a base system including PTFs, APARs, SMP/E etc.
 - BCP (Base Control Program) - z/OS kernel is part of it.
