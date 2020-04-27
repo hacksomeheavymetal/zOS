@@ -54,4 +54,4 @@ No ideas what to contribute? We need these (in no particular order), e.g.:
 - [vocabulary.md - the language used in the mainframe world](../master/vocabulary.md)
 
 ## Contact
-hacksomeheavymetal@protonmail.com
+Just create a new issue...
