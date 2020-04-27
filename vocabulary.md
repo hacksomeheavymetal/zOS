@@ -78,14 +78,4 @@ IKJ**** - TSO component messages
 - Supervisor State Switch - restricts when a program can execute privileged hardware instructions.
 - Protect Keys - restrict what memory a program can update or read.
 - Address Spaces - restrict processes by running them within dedicated address spaces managed by the kernel (like in other unices). 
-
-## Security sensitive datasets
-- SYS1.UADS - if ACP is not used for whatever reason, then definitions in this dataset will be used to grant access to the system.
-- SYS1.PARMLIB - contains control parameters for the whole system (similar function to /etc in other unices). The SVCs, Exits, APF-authorization, Program Properties Table, functional subsystems etc. reside in PARMLIB datasets.
-- SYS1.NUCLEUS - contains the basic supervisor modules of the system. 
-- SYS1.PROCLIB - contains the IBM-supplied JCL procedures used to perform certain system functions.
-- SYS1.LINKLIB - contains many of the executable code, also known as modules, for z/OS components and utilities. By default, SYS1.LINKLIB is the first data set in the linklist, which is a collection of libraries containing system and user code. 
-- SYS1.LPALIB - ???
-- SYS1.SVCLIB - ???
-- LPALIST - reenterable routines that are loaded at IPL. Contains SVCs.
   
