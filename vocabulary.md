@@ -6,7 +6,7 @@
 - ACF2 (Access Control Facitlity) - alternative facility for authentication, RBAC, ACLs, auditing etc.
 - ACP (Access Control Product) - products such as RACF, ACF2 and TSS.
 - APAR (Authorized Program Analysis Report) - is an IBM designation of a document intended to identify situations that could result in potential problems.
-- APF (Authorized Program Facility) - checks if a given program is authorised to access system sensitive functions. The APF authorisation allows to call any system service, to use restricted SVCs and SVC paths, to run in supervisor state, to change any memory block (including security control ones) and/or to use memory keys 0 and 1.
+- APF (Authorized Program Facility) - checks if a given program is authorised to access system sensitive functions. The APF authorisation allows to call any system service, to use restricted SVCs and SVC paths, to run in supervisor state, to change any memory block (including security control ones) and/or to use memory protection keys 0 and 1.
 - BCP (Base Control Program) - z/OS kernel is part of it.
 - CBPIO (Custom Built Installation Process Offering) - installation of a base system including PTFs, APARs, SMP/E etc.
 - BCP (Base Control Program) - z/OS kernel is part of it.
@@ -75,7 +75,6 @@ All messages can be searched for at: http://www.ibm.com/systems/z/os/zos/bkserv/
 IKJ**** - TSO component messages
   
 ## The hardware controls (sandboxing/virtual cages)
-- Supervisor State Switch - restricts when a program can execute privileged hardware instructions.
-- Protect Keys - restrict what memory a program can update or read.
-- Address Spaces - restrict processes by running them within dedicated address spaces managed by the kernel (like in other unices). 
-  
+- Supervisor state switch - restricts when a program can execute privileged hardware instructions.
+- Memory protect Keys - restrict what storage/memory a program can update/store or read/fetch (similar like in other unices). For details and other types of memory protections see chapter 5.7 in "Introduction to the New Mainframe: Security" at https://www.redbooks.ibm.com/redbooks/pdfs/sg246776.pdf.
+- Address spaces - restrict processes by running them within dedicated address spaces managed by the kernel (like in other unices). 
