@@ -30,7 +30,7 @@ The z/OS system should be now booted/IPLed. You should notice that the second x3
 
 - On the welcome screen enter userid and see 2.1., e.g.:
 
-`logon ibmuser`
+  `logon ibmuser`
 
 ## Working envrionments:
 
@@ -52,9 +52,9 @@ Depending on the chosen procedure you will end up in on of the working environme
 
 In the ISPF-like programs:
 
-  - F10/F11 shifts screen view right/left to see all displayed info
+  - PF10/PF11 shifts screen view right/left to see all displayed info
   
-  - F7/F8 scrolls screen view up/down to see all displayed info
+  - PF7/PF8 scrolls screen view up/down to see all displayed info
   
   - PA1 attention key on the virtual keyboard that terminates the execution of the current command in TSO (e.g. when in the '***' prompt).
   
