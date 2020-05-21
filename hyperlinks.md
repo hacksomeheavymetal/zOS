@@ -44,3 +44,4 @@
 - http://www.efglobe.com/cgi-bin/mainframe/mainuser - free mainframe account on z/os 1.06
 - http://enterprisesystemsmedia.com/article/warning-mainframe-data-leakage-poses-significant-risk#sr=g&m=o&cp=or&ct=-tmc&st=(opu%20qspwjefe)&ts=1471227408
 - https://securityintelligence.com/posts/top-five-security-focus-areas-for-mainframes/
+- https://www.go2bsecure.com/en-university-zos-training.html - mainframe online security course
