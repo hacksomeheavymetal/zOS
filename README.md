@@ -52,6 +52,7 @@ No ideas what to contribute? We need these (in no particular order), e.g.:
 - [hyperlinks.md - external resources](../master/hyperlinks.md)
 - [pentesting.md - the crash course to z/OS pentesting](../master/pentesting.md)
 - [vocabulary.md - the language used in the mainframe world](../master/vocabulary.md)
+- [tools.md - various tools pertaining to z/OS security](../master/tools.md)
 
 ## Contact
 Just create a new issue...
