@@ -16,6 +16,7 @@
 - "rocket software" & vanguard "ez/token" are z/os multi-factor solutions
 - https://github.com/sensepost/birp (a la burp but for mainframes console)
 - https://github.com/sensepost/mainframe_brute
+- https://github.com/incendiary/Grute_pub
 - https://github.com/ayoul3/cicspwn
 - https://github.com/ayoul3/Privesc/blob/master/ELV.APF
 - http://www-03.ibm.com/systems/z/os/zos/features/unix/bpxa1svp.html
